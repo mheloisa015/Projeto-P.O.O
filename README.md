@@ -50,7 +50,7 @@ Mesmo sendo um protótipo inicial, o projeto proporcionou aprendizados important
 
 ## 📷 Interface do Sistema
 
-> *(Adicionar aqui imagens/gifs da interface, se houver)*
+> *(https://www.linkedin.com/posts/maria-clara-morgado-couto-2856a5279_java-poo-mysql-activity-7305729747643199488-idtj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdqWkABIu7l_aAp0fS-QYXKucqYlZUyMm0)*
 
 ---
 
