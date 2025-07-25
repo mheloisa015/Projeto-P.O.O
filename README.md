@@ -1,14 +1,21 @@
-# Projeto-P.O.O
-#Desenvolvemos um protótipo de sistema utilizando Programação Orientada a Objetos (P.O.O.) em Java, com integração a banco de dados MySQL e uma interface gráfica intuitiva, visando otimizar o registro e o controle de defeitos em peças durante o processo produtivo.
+# 📌 Sistema de Cadastro de Defeitos em Peças — Protótipo
 
-O objetivo central foi estruturar e padronizar o fluxo de informações sobre falhas, promovendo maior rastreabilidade e agilidade na tomada de decisões na linha de produção. Com essa solução, tornaram-se possíveis as seguintes melhorias:
+Este projeto é um **protótipo de sistema para registro de defeitos em peças** em uma linha de produção, desenvolvido com foco em melhorar a rastreabilidade de falhas e apoiar decisões na área industrial.
 
-✅ Registro estruturado de defeitos, reduzindo riscos de perda de informações;
-✅ Centralização e padronização dos dados, facilitando a rastreabilidade e análise de falhas;
-✅ Apoio à tomada de decisões com base em dados organizados e acessíveis em tempo real.
+---
 
-Apesar de se tratar de um protótipo inicial, o projeto proporcionou um aprofundamento prático em desenvolvimento de software, manipulação de banco de dados e demonstrou na prática como a tecnologia pode contribuir diretamente para a melhoria contínua dos processos industriais.
+## 🛠️ Tecnologias Utilizadas
 
+- **Java** (Programação Orientada a Objetos)
+- **MySQL** (Banco de Dados Relacional)
+- **Swing** (Interface Gráfica)
 
+---
 
+## 🎯 Objetivo
+
+O sistema foi idealizado para:
+
+- ✅ Registrar defeitos de forma estruturada, evitando perda de informações;
+- ✅ Padronizar e
 
